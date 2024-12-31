@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hướng Dẫn Sửa Lỗi Phần Mềm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hướng Dẫn Sửa Lỗi Phần Mềm</h1>
+    <p>Khắc phục các sự cố phổ biến khi sử dụng phần mềm</p>
+</header>
+
+<nav>
+    <a href="#intro">Giới Thiệu</a>
+    <a href="#steps">Các Bước Sửa Lỗi</a>
+    <a href="#examples">Ví Dụ</a>
+    <a href="#contact">Liên Hệ</a>
+</nav>
+
+<div class="container" id="intro">
+    <h2>Giới Thiệu</h2>
+    <p>Phần mềm của bạn có thể gặp phải nhiều vấn đề như bị treo, không khởi động được, hoặc gặp lỗi khi sử dụng. Trang web này sẽ hướng dẫn bạn các bước cơ bản để xác định và sửa lỗi phần mềm. Bạn chỉ cần làm theo các bước đơn giản dưới đây để khắc phục sự cố phần mềm.</p>
+</div>
+
+<div class="container" id="steps">
+    <h2>Các Bước Sửa Lỗi Phần Mềm</h2>
+    <ol>
+        <li><strong>Xác định lỗi:</strong> Xem thông báo lỗi hoặc những dấu hiệu bất thường khi phần mềm không hoạt động đúng.</li>
+        <li><strong>Khởi động lại phần mềm:</strong> Đôi khi, việc khởi động lại phần mềm có thể giúp sửa chữa những lỗi tạm thời.</li>
+        <li><strong>Cập nhật phần mềm:</strong> Kiểm tra xem có bản cập nhật mới cho phần mềm hay không. Các bản cập nhật thường khắc phục được các lỗi cũ.</li>
+        <li><strong>Kiểm tra kết nối mạng:</strong> Đảm bảo rằng thiết bị của bạn có kết nối internet ổn định, nếu phần mềm yêu cầu kết nối mạng.</li>
+        <li><strong>Xóa và cài lại phần mềm:</strong> Nếu không có cách nào khắc phục được, thử gỡ bỏ phần mềm và cài lại từ đầu.</li>
+    </ol>
+</div>
+
+<div class="container" id="examples">
+    <h2>Ví Dụ</h2>
+    <p>Dưới đây là một số ví dụ về lỗi phần mềm phổ biến và cách khắc phục:</p>
+    <ul>
+        <li><strong>Lỗi phần mềm không khởi động:</strong> Thử chạy phần mềm dưới quyền quản trị viên hoặc kiểm tra xem phần mềm có bị xung đột với phần mềm khác không.</li>
+        <li><strong>Lỗi kết nối mạng:</strong> Kiểm tra lại kết nối internet, thử bật lại router hoặc kiểm tra phần mềm bảo mật có chặn kết nối hay không.</li>
+        <li><strong>Lỗi giao diện người dùng:</strong> Thử chỉnh lại độ phân giải màn hình hoặc sử dụng phiên bản phần mềm thấp hơn nếu máy tính của bạn không đáp ứng yêu cầu hệ thống.</li>
+    </ul>
+</div>
+
+<div class="container" id="contact">
+    <h2>Liên Hệ</h2>
+    <p>Để biết thêm thông tin hoặc cần trợ giúp cụ thể, bạn có thể liên hệ với bộ phận hỗ trợ kỹ thuật qua email: <a href="mailto:support@software.com">support@software.com</a>.</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 Hướng Dẫn Sửa Lỗi Phần Mềm. Tất cả các quyền được bảo lưu.</p>
+</footer>
+
+</body>
+</html>
